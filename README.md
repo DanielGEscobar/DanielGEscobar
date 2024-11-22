@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/DanielGEscobar/Detection-Lab/tree/main">Detection Lab</a>|
 | EDR Home Lab for Attack & Defense Simulation| <a href="https://github.com/DanielGEscobar/Detection-Lab/tree/main">EDR Home Lab for Attack & Defense Simulation</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         |<a href="https://github.com/DanielGEscobar/Security-Automation-with-Shuffle-SOAR/blob/main/README.md">Security Automation with Shuffle SOAR </a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|

@@ -63,7 +63,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Directory services
 <div>
-    <img src="https://img.shields.io/badge/-Windows_Active_Directory-90EE90?&style=for-the-badge&logo=Windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Windows_Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 
 </div>

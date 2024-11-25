@@ -42,6 +42,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Windows_Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 </div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />

@@ -37,12 +37,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Velociraptor-000000?&style=for-the-badge&logo=Ghost&logoColor=white" />
 </div>
 
-### Directory services
-<div>
-    <img src="https://img.shields.io/badge/-Windows_Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -57,6 +51,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Metasploit-2A73CC?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-FF4500?&style=for-the-badge&logo=Python&logoColor=white" />
+### Virtual Machines
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=Kali&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+
+</div>
+
+### Directory services
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+
+</div>
 
     
 </div>

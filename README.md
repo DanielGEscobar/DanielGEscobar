@@ -53,4 +53,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/DanielGEscobar/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/DanielGEscobar/Detection-Lab/tree/main">EDR Home Lab for Attack & Defense Simulation</a>
+- <a href="https://github.com/DanielGEscobar/Security-Automation-with-Shuffle-SOAR/blob/main/README.md">Security Automation with Shuffle SOAR </a> 
+- <a href="https://github.com/DanielGEscobar/Incident-Response-Planning-and-Execution/blob/main/README.md"> Incident Response Planning and Execution  </a> 
+- <a href="https://github.com/DanielGEscobar/Case-Management-with-TheHive/blob/main/README.md"> Case Management with TheHive   </a>
+- <a href="https://github.com/DanielGEscobar/Case-Management-with-TheHive/blob/main/README.md">Incident response, mitigation and recovery </a>

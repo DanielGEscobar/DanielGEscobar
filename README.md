@@ -35,10 +35,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-000000?&style=for-the-badge&logo=Ghost&logoColor=white" />
- 
-    
 </div>
 
+### Directory services
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+
+</div>
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />

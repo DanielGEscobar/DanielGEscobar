@@ -42,6 +42,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Attack Simulation Tools
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-2A73CC?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-FF4500?&style=for-the-badge&logo=Python&logoColor=white" />
+
+    
+</div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>

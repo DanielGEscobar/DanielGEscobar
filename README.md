@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href="https://github.com/DanielGEscobar/Incident-Response-Planning-and-Execution/blob/main/README.md"> Incident Response Planning and Execution  </a> |
 | Case Management with TheHive                  | <a href="https://github.com/DanielGEscobar/Case-Management-with-TheHive/blob/main/README.md"> Case Management with TheHive   </a>|
 | Incident response, mitigation and recovery |<a href="https://github.com/DanielGEscobar/Case-Management-with-TheHive/blob/main/README.md">Incident response, mitigation and recovery </a>| |
+|Web Application Development |<a href="https://github.com/DanielGEscobar/Case-Management-with-TheHive/blob/main/README.md">Web Application Development</a>| |
 
 ## Tools
 
